@@ -1,0 +1,12 @@
+package Paquetito;
+
+/**
+ *
+ * @author PCdoctor
+ */
+public class Principalito {
+
+    public static void main(String[] args) {
+        
+    }
+}

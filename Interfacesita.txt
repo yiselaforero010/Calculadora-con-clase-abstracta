@@ -1,0 +1,6 @@
+package Paquetito;
+
+public interface Interfacesita {
+    public double calculadora(double a, double b);
+    
+}

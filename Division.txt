@@ -1,0 +1,10 @@
+package Paquetito;
+
+public class Division implements Interfacesita {
+
+    @Override
+    public double calculadora(double a, double b) {
+        return a/b;
+    }
+    
+}

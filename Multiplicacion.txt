@@ -1,0 +1,17 @@
+package Paquetito;
+
+/**
+ *
+ * @author PCdoctor
+ */
+public class Multiplicacion implements Interfacesita {
+
+    @Override
+    public double calculadora(double a, double b) {
+        
+        return a*b;
+        
+    }
+    
+    
+}

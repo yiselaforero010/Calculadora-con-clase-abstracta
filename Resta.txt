@@ -1,0 +1,12 @@
+
+
+package Paquetito;
+
+public class Resta implements Interfacesita {
+
+    @Override
+    public double calculadora(double a, double b) {
+        return a-b;
+    }
+    
+}

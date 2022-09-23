@@ -1,0 +1,11 @@
+
+package Paquetito;
+
+public class Suma implements Interfacesita {
+
+    @Override
+    public double calculadora(double a, double b) {
+        return a+b;
+    }
+    
+}
